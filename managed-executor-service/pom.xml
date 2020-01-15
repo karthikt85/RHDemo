@@ -68,6 +68,7 @@
             <groupId>org.jboss.logging</groupId>
             <artifactId>commons-logging-jboss-logging</artifactId>
             <scope>test</scope>
+            <version>1.0.0.Final</version>
         </dependency>
 
         <!-- Import the JPA API, we use provided scope as the API is included in
